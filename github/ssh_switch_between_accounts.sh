@@ -31,6 +31,7 @@ Host github.com-stas
 # check if connected to the right account
 ssh -T git@github.com-work
 
+
 #one more check
 git remote -v
 
